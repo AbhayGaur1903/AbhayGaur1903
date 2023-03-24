@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhayGaur1903
+- 👋 Hi, I’m @Abhay_Gaur
 - 👀 I’m interested in Data Analytics/Business Intelligence
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Data Analytics Projects
