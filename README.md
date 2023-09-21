@@ -1,8 +1,9 @@
-# - 👋 Hi, I’m @Abhay_Gaur
-- 👀 I’m interested in Data Analytics/Business Intelligence
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on Data Analytics Projects
-- 📫 How to reach me abhay19gaur@gmail.com
+# 👋 Hi, I'm [@Abhay_Gaur](https://github.com/Abhay_Gaur)
+### 👀 I'm passionate about DevOps and automation.
+### 🌱 I'm continuously expanding my knowledge in DevOps practices.
+### 💼 I'm actively seeking opportunities to collaborate on DevOps projects.
+### 📫 You can reach me at [abhay19gaur@gmail.com](mailto:abhay19gaur@gmail.com)
+
 
 <!---
 AbhayGaur1903/AbhayGaur1903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
